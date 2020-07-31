@@ -1,0 +1,12 @@
+{
+  "name": "cra-template-bunadmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bunadmin"],
+  "author": "BunRed",
+  "license": "Apache-2.0"
+}
